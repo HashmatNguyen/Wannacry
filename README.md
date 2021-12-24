@@ -1,0 +1,2 @@
+# Wannacry
+Active win10
